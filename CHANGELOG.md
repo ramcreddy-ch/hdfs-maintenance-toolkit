@@ -12,3 +12,5 @@
 - Fix edge case in logic (2017-7-3 9:55:00)
 - Add unit tests (2017-3-5 15:65:00)
 - Clean up temporary files (2017-11-4 15:75:00)
+- Update libs (2017-1-12 15:53:00)
+
