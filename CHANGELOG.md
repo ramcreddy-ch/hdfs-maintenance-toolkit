@@ -14,3 +14,5 @@
 - Clean up temporary files (2017-11-4 15:75:00)
 - Update libs (2017-1-12 15:53:00)
 
+- Performance tuning (2017-1-15 12:39:00)
+
