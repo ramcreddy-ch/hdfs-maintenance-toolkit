@@ -2,3 +2,4 @@
 - Refactor configuration files (2017-6-23 14:10:00)
 - Optimize script performance (2017-10-26 9:20:00)
 - Fix minor typos (2017-8-27 12:30:00)
+- Update dependencies (2017-5-11 13:40:00)
