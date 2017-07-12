@@ -28,3 +28,5 @@
 
 - Config update (2017-5-19 15:36:00)
 
+- Performance tuning (2017-7-12 13:30:00)
+
