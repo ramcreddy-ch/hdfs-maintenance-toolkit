@@ -32,3 +32,5 @@
 
 - Update libs (2017-7-12 9:53:00)
 
+- Performance tuning (2017-8-7 12:34:00)
+
